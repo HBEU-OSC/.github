@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 待定logo -->
-<img src="#" style="width:60%">
+<img src="./assets/OCS_logo.png" style="width:60%">
 
 [![](https://img.shields.io/badge/Join_QQ-%e6%b9%96%e5%8c%97%e5%b7%a5%e7%a8%8b%e5%ad%a6%e9%99%a2%e5%bc%80%e6%94%be%e5%8e%9f%e5%ad%90%e7%a4%be%e5%9b%a2-white?style=for-the-badge&color=76bad9&logo=qq&logoColor=76bad9)](https://qm.qq.com/q/nobcNudYfm)
 
@@ -18,7 +18,7 @@
 ### 社团QQ群
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HBEU-OSC/.github/refs/heads/main/profile/assets/qrcode.jpg" style="width:40%">
+<img src="./assets/qrcode.jpg" style="width:40%">
 
 </div>
 
